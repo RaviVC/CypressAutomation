@@ -2,7 +2,7 @@ export class loginPage {
 
     webLocators = {
         loginLnk:'.ico-login',
-        email: 'Email',
+        email: '#Email',
         password: '#Password',
         loginBtn : 'button[class="button-1 login-button"]'
 
